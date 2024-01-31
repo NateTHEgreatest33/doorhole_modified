@@ -1,6 +1,6 @@
 # doorhole
 
-A graphical requirements editor for doorstop: https://github.com/doorstop-dev/doorstop
+A graphical requirements editor for doorstop forked from: https://github.com/doorstop-dev/doorstop 
 
 This tool is designed to view and edit doorstop requirements, as fast as possible.
 
